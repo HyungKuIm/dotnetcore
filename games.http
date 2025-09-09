@@ -9,10 +9,10 @@ POST http://localhost:5259/games
 Content-Type: application/json
 
 {
-    "name": "갤러그",
-    "genreId": 2,
+    "name": "하드볼3",
+    "genreId": 3,
     "price": 10000,
-    "releaseDate": "1981-02-01"
+    "releaseDate": "1992-05-01"
 }
 
 ###
