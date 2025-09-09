@@ -9,10 +9,10 @@ POST http://localhost:5259/games
 Content-Type: application/json
 
 {
-    "name": "Street Fighter II",
-    "genreId": 1,
-    "price": 20000,
-    "releaseDate": "1991-02-01"
+    "name": "갤러그",
+    "genreId": 2,
+    "price": 10000,
+    "releaseDate": "1981-02-01"
 }
 
 ###
