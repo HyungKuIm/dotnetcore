@@ -22,7 +22,7 @@ Content-Type: application/json
 {
     "id": 1,
     "name": "Street Fighter II Turbo",
-    "genre": "Fighting",
+    "genreId": 1,
     "price": 9.99,
     "releaseDate": "1991-02-01"
 }
